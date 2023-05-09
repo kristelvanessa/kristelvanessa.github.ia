@@ -138,9 +138,9 @@
       <hr>
       <div class="container">
         <div class="row text-center">
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="collage jpg.jpg" alt=""></div>
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="curriculo github//Logo-browvy--color-negro.png" alt=""></div>
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="../Downloads/cafe.jpg" alt=""></div>
+          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="curriculo github/collage jpg.jpg" alt=""></div>
+          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="curriculo github/Logo-browvy--color-negro.png" alt=""></div>
+          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="curriculo github/cafe.jpg" alt=""></div>
         </div>
         <div class="row text-center">
           <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="curriculo github/Creación de un anuncio orgánico y una versión story_Mesa de trabajo 1.jpg" alt=""></div>
