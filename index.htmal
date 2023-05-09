@@ -1,11 +1,11 @@
-#pargenyal.github.io
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head></head>
-<body>
-<h1>M1 primera pagina web en github</h1>
-
-</body>
-
-
+  <head>
+    <title>Mi sitio web</title>
+  </head>
+  <body>
+    <h1>Bienvenido a mi sitio web</h1>
+    <p>Este es mi primer sitio web creado con GitHub.</p>
+  </body>
 </html>
+
