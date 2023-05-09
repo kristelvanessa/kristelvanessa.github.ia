@@ -24,7 +24,7 @@
       <div class="row">
         <div class="col-md-8 col-sm-12">
           <div class="media">
-            <a href="curriculo github/IMG-20221225-WA0010.jpg"><img src="curriculo github/IMG-20221017-WA0009.jpg" alt="Generic placeholder image" class="img-fluid"></a>
+            <a href="curriculo github/Imagen de WhatsApp 2023-05-09 a las 13.06.02"><img src="curriculo github/Imagen de WhatsApp 2023-05-09 a las 13.06.02" alt="Generic placeholder image" class="img-fluid"></a>
 <div class="media-body">
           <h5 class="mt-0">Desarrollador Web&nbsp;&nbsp;</h5>
           Creadora de contenidos en las diversas paginas de Diseño .&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;.</div>
